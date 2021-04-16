@@ -12,3 +12,5 @@ Recently, ultrasound-based imaging of the brain has been proposed as a promising
 
 This project intends to explore ways in which machine learning techniques could be used to accelerate these reconstructions by effectively reducing the computational domain in which the reconstruction process takes place. In order to do so, deep learning models will be trained and integrated into finite-difference codes in Python.
 
+
+The network is trained using _Train_and_Test_RNN_, and then its integration with the finite-difference solver and suitability for ultrasound use is ultimately tested in _testAcoustic_. The network must produce waves in _testAcoustic_ that propagate to infinity, with no reflection artefacts.

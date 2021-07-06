@@ -1,9 +1,9 @@
 # Using Machine Learning to Accelerate 3D Ultrasound Brain Imaging
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47857277/124620286-3bbf5e00-de71-11eb-92a3-9f5ca9434b9c.gif" height="200" title="Infinite">
-  <img src="https://user-images.githubusercontent.com/47857277/124620517-6c06fc80-de71-11eb-8973-fa3676ac644b.gif" height="200" title="Network Predictions">
-  <img src="https://user-images.githubusercontent.com/47857277/124620776-a40e3f80-de71-11eb-93a1-423aa64e0b40.gif" height="200" title="Errors">
+  <img src="https://user-images.githubusercontent.com/47857277/124620286-3bbf5e00-de71-11eb-92a3-9f5ca9434b9c.gif" height="180" title="Infinite">
+  <img src="https://user-images.githubusercontent.com/47857277/124620517-6c06fc80-de71-11eb-8973-fa3676ac644b.gif" height="180" title="Network Predictions">
+  <img src="https://user-images.githubusercontent.com/47857277/124620776-a40e3f80-de71-11eb-93a1-423aa64e0b40.gif" height="180" title="Errors">
 </p>
 <p align="center">
   <em>Infinite wavefield, wavefield with borders predicted by the network, and errors between the two.</em>
